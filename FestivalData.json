@@ -242,5 +242,9 @@
   {
     "FESTIVAL": "VIENNALE - Festival Internacional de cine de Viena",
     "ICONO": "https://raw.githubusercontent.com/davaloski/cineboliviano/main/Viennale.png"
+  },
+  {
+    "FESTIVAL": "OTRAS PROYECCIONES",
+    "ICONO": "https://raw.githubusercontent.com/davaloski/cineboliviano/main/Otras.png"
   }
 ]
